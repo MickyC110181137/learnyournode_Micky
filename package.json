@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "colors": "^1.4.0",
+    "learnyounode": "^4.2.2",
+    "yarn": "^1.22.17"
+  },
+  "name": "learnyournode_micky",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MickyC110181137/learnyournode_Micky.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MickyC110181137/learnyournode_Micky/issues"
+  },
+  "homepage": "https://github.com/MickyC110181137/learnyournode_Micky#readme"
+}
